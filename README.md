@@ -29,9 +29,9 @@
 <br />
 
 ---
-
+<p text-align="center">
 18-year-old backend developer. I build real-world systems with **Node.js**, **PostgreSQL**, and **Prisma** — this year I expanded into **Java** and **PHP**. I learn by building things, breaking them, and figuring out why.
-
+</p>
 ---
 
 `Linux internals` &nbsp; `Ethical hacking` &nbsp; `Bandit wargames` &nbsp; `Privilege escalation` &nbsp; `JWT · RBAC · bcrypt` &nbsp; `Prisma ORM`
