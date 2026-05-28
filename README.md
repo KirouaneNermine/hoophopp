@@ -34,7 +34,7 @@
 
 ---
 
-18-year-old backend developer. I build real-world systems with **Node.js**, **PostgreSQL**, and **Prisma** — this year I expanded into **Java** and **PHP**. I learn by building things, breaking them, and figuring out why.
+18-year-old backend developer. I build real-world systems with **Node.js**, **PostgreSQL**, and **Prisma**  this year I expanded into **Java** and **PHP**. I learn by building things, breaking them, and figuring out why.
 
 ---
 
