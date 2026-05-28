@@ -33,7 +33,7 @@
 <br />
 
 
->Backend developer & designer · 18 · real systems, clean interfaces
+>Backend developer & designer · 19y · real systems, clean interfaces
 
 
 ---
