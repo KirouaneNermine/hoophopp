@@ -1,13 +1,10 @@
-
-raw
-Readme · MD
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Nermine;Backend+Developer;Node.js+%C2%B7+PostgreSQL+%C2%B7+Linux;Always+building+something." alt="Typing SVG" />
 </div>
 <br />
 ```
 > whoami
-  nermine kirouane - backend dev, 19
+  nermine kirouane — backend dev, 18
   building real systems, breaking things on purpose
  
 > stack
@@ -38,3 +35,4 @@ Readme · MD
 [![GitHub](https://img.shields.io/badge/github-hoophopp-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hoophopp)
  
 </div>
+ 
