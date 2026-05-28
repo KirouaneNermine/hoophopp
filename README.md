@@ -1,6 +1,10 @@
 <div align="center">
 
-<h1>Nermine Kirouane</h1>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nermine+%F0%9F%91%8B;Backend+Developer;Node.js+%C2%B7+Linux+%C2%B7+Ethical+Hacking)
+
+</div>
 
 <p style="letter-spacing: 0.08em; text-transform: uppercase; font-size: 13px; color: gray;">
   Backend Developer &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Ethical Hacking
@@ -29,9 +33,9 @@
 <br />
 
 ---
-<p text-align="center">
+
 18-year-old backend developer. I build real-world systems with **Node.js**, **PostgreSQL**, and **Prisma** — this year I expanded into **Java** and **PHP**. I learn by building things, breaking them, and figuring out why.
-</p>
+
 ---
 
 `Linux internals` &nbsp; `Ethical hacking` &nbsp; `Bandit wargames` &nbsp; `Privilege escalation` &nbsp; `JWT · RBAC · bcrypt` &nbsp; `Prisma ORM`
