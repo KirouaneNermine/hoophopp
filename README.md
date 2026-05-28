@@ -39,7 +39,16 @@
 ---
 
 
-`Linux internals` &nbsp; `Ethical hacking` &nbsp; `Bandit wargames` &nbsp; `Privilege escalation` &nbsp; `JWT · RBAC · bcrypt` &nbsp; `Prisma ORM`
+<div align="center">
+
+![](https://img.shields.io/badge/Linux%20internals-F78CA0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Ethical%20hacking-F78CA0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Bandit%20wargames-F78CA0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Privilege%20escalation-F78CA0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/JWT%20%C2%B7%20RBAC%20%C2%B7%20bcrypt-F78CA0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Prisma%20ORM-F78CA0?style=flat-square&logoColor=white)
+
+</div>
 
 <div align="center">
 
