@@ -34,9 +34,11 @@
 
 ---
 
+---
 
-> Backend developer at 18. I build production-ready APIs with **Node.js**, **PostgreSQL**, and **Prisma** — expanded into **Java** and **PHP** this year.
-> I don't follow tutorials. I build, break, and figure it out.
+>Backend developer & designer · 18 · real systems, clean interfaces
+
+---
 
 ---
 
