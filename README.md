@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nermine+%F0%9F%91%8B;Backend+Developer;Node.js+%C2%B7+Linux+%C2%B7+Ethical+Hacking)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78CA0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nermine;Backend+Developer;Node.js+%C2%B7+Linux+%C2%B7+Ethical+Hacking)
 
 </div>
 
