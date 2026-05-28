@@ -33,8 +33,9 @@
 <br />
 
 
-
+<div align="center">
 >Backend developer & designer · 18 · real systems, clean interfaces
+</div>
 
 ---
 
