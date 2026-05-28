@@ -32,21 +32,15 @@
 
 <br />
 
----
 
----
 
 >Backend developer & designer · 18 · real systems, clean interfaces
 
 ---
 
----
-
----
 
 `Linux internals` &nbsp; `Ethical hacking` &nbsp; `Bandit wargames` &nbsp; `Privilege escalation` &nbsp; `JWT · RBAC · bcrypt` &nbsp; `Prisma ORM`
 
----
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-kirouanennermine-D4537E?style=flat-square&logo=gmail&logoColor=white)](mailto:kirouanennermine@gmail.com)
